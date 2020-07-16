@@ -7,6 +7,7 @@ The following work presents the analysis of temperatures in Honololu, Hawai for 
 There are 2 tables available: Measurements and Stations.
 * Measurements table contains: Precipitation (prcp), station, temperature (tobs), date and id. It has 19,550 rows.
 * Station table contains: station, id, elevation, name, longitude and latitude. It has 9 rows.
+
 The following plot presents the last 12 months of precipitation data in Honolulu, HI.
 
 ![Figure](Images/Image1.png)
