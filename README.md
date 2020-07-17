@@ -32,7 +32,7 @@ The plot below presents the daily normals for the dates between 2017-07010 and 2
 
 ## Climate App
 
-Six API routes were created:
+Six API routes were created to present results:
 * /api/v1.0/
 * /api/v1.0/precipitation
 * /api/v1.0/stations
