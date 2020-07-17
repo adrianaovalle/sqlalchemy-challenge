@@ -15,13 +15,27 @@ The following plot presents the last 12 months of precipitation data in Honolulu
 ![Figure](Images/Image1.png)
 
 
-This is a text to write
+The histogram below presents the results for station USC00519281 for temperatures in the last 12 months of data.
 
 
 ![Figure](Images/Image2.png)
 
+The plot below present the ranges of temperatures between the dates of 2017-07010 and 2017-07-26.
+
+
 ![Figure](Images/Image3.png)
+
+The plot below presents the daily normals for the dates between 2017-07010 and 2017-07-26.
+
 
 ![Figure](Images/Image4.png)
 
 ## Climate App
+
+Six API routes were created:
+* /api/v1.0/
+* /api/v1.0/precipitation
+* /api/v1.0/stations
+* /api/v1.0/tobs
+* /api/v1.0/start
+* /api/v1.0/start/end
