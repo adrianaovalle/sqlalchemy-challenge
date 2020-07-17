@@ -20,12 +20,12 @@ The histogram below presents the results for station USC00519281 for temperature
 
 ![Figure](Images/Image2.png)
 
-The plot below present the ranges of temperatures between the dates of 2017-07010 and 2017-07-26.
+The plot below presents the ranges of temperatures between the dates of 2017-07-10 and 2017-07-26.
 
 
 ![Figure](Images/Image3.png)
 
-The plot below presents the daily normals for the dates between 2017-07010 and 2017-07-26.
+The plot below presents the daily normals for the dates between 2017-07-10 and 2017-07-26.
 
 
 ![Figure](Images/Image4.png)
