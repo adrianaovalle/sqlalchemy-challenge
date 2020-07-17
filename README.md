@@ -15,6 +15,8 @@ The following plot presents the last 12 months of precipitation data in Honolulu
 ![Figure](Images/Image1.png)
 
 
+This is a text to write
+
 
 ![Figure](Images/Image2.png)
 
